@@ -2,7 +2,7 @@
 
 <template>
 <h1 class="text-3xl font-bold underline ">
-  Hello world!
+  Detail
 </h1>
 </template>
 
